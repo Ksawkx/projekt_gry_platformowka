@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 748621422723692029}
   - component: {fileID: 1027766526312783701}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: platforma_prawy_brzeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,7 +93,7 @@ GameObject:
   - component: {fileID: 5359292871798996333}
   - component: {fileID: 1611377894412262170}
   - component: {fileID: 1852662531298495311}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: platforma_srodek
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -194,7 +194,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6298870907740069734}
   - component: {fileID: 2960602925324387245}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: platforma_lewy_brzeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -276,7 +276,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1488955537915309149}
   - component: {fileID: 7561389323692857421}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: platforma
   m_TagString: Untagged
   m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}

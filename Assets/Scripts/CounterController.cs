@@ -1,5 +1,5 @@
 using System.Collections;
-using System.Collections.Generic;
+//using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -7,25 +7,26 @@ using UnityEngine.UI;
 public class CounterController : MonoBehaviour
 {
 
-    int numerOfBoxes;
-    Text counterView;
+    int numberOfBoxes;
+    public Text counterView;
 
     // Start is called before the first frame update
     void Start()
     {
+        counterView = GetComponent<Text> ();
         ResetCounter();
 
     }
 
     public void IncrementCounter()
     {
-        numerOfBoxes++;
-        counterView.text = numerOfBoxes.ToString();
+        numberOfBoxes++;
+        counterView.text = numberOfBoxes.ToString();
     }
-        public void ResetCounter()
+    public void ResetCounter()
     {
-        numerOfBoxes = 0;
-        counterView.text = numerOfBoxes.ToString();
+        numberOfBoxes = 0;
+        counterView.text = numberOfBoxes.ToString();
     }
 
 }

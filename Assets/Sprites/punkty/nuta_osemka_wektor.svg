@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="64"
+   height="120"
+   viewBox="0 0 64 120"
+   sodipodi:docname="nuta_osemka_wektor.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\Slawek\Unity\projekt_gry_platformowka\Assets\Sprites\punkty\nuta_osemka_wektor.png"
+   inkscape:export-xdpi="102.89"
+   inkscape:export-ydpi="102.89"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="6.275"
+     inkscape:cx="32.031873"
+     inkscape:cy="60"
+     inkscape:window-width="2560"
+     inkscape:window-height="1547"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <path
+       style="fill:#090909;stroke:none"
+       d="m 35.956175,89.884462 c -7.0536,-4.1286 -14.7611,-7.4047 -22.9083,-4.1687 -11.9765962,4.7569 -14.8760502,20.382698 -4.5069902,28.441708 13.3398902,10.369 28.8989902,-0.632 31.0153902,-15.275308 4.4102,-30.5131 -0.7447,-61.749 -4.6001,-91.9976998 6.3764,2.7588 12.9658,5.8709998 19.9003,6.8905998 1.4113,0.2075 6.4855,0.9664 6.937,-1.2923 0.4503,-2.2531 -5.6441,-3.3209998 -6.9372,-3.6956998 -4.1759,-1.20993 -21.6019,-10.99607 -24.1784,-5.55484 -3.0244,6.38704 1.6548,19.8319398 2.5315,26.6522398 2.5728,20.0143 2.7468,39.86 2.7468,60 z"
+       id="path30"
+       inkscape:export-filename="C:\Users\Slawek\Unity\projekt_gry_platformowka\Assets\Sprites\punkty\nuta_osemka_z_wektor.png"
+       inkscape:export-xdpi="102.89"
+       inkscape:export-ydpi="102.89" />
+  </g>
+</svg>

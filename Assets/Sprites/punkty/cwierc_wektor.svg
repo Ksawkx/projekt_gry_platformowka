@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="48"
+   height="120"
+   viewBox="0 0 48 120"
+   sodipodi:docname="cwierc_wektor.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\Slawek\Unity\projekt_gry_platformowka\Assets\Sprites\punkty\nuta_cwierc_z_wektor.png"
+   inkscape:export-xdpi="102.89063"
+   inkscape:export-ydpi="102.89063"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="6.275"
+     inkscape:cx="24.063745"
+     inkscape:cy="60"
+     inkscape:window-width="2560"
+     inkscape:window-height="1547"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <path
+       style="fill:#070707;stroke:none"
+       d="m 36.161918,1.140445 0.10168,83.570268 C 28.441701,82.124227 19.783754,80.090467 11.929117,83.799762 0.48838346,89.202536 -0.98409254,105.30778 8.1801485,113.5949 19.833973,124.13296 41.323337,116.99834 45.446488,102.15155 48.172145,92.337006 46.460255,80.503417 46.441752,70.405638 46.400445,47.909393 45.318435,25.335712 46.215421,2.8513138 Z"
+       id="path30" />
+  </g>
+</svg>
